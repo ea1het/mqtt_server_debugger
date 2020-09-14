@@ -1,0 +1,4 @@
+user admin
+topic read $SYS/#
+topic readwrite #
+
